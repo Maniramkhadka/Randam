@@ -1,85 +1,116 @@
-# Ecommerce Template Bootstrap - Your Shop
-<table>
-  <tr>
-    <td> Template Name </td>
-    <td> Ecommerce Template - <strong>Your Shop</strong> </td>
-  </tr>
-  <tr>
-    <td> Languge Uses </td>
-    <td> HTML5, CSS3, Javascript </td>
-  </tr>
-  <tr>
-    <td> Framework Uses </td>
-    <td> Bootstrap 3.37, Javascript API's</td>
-  </tr>
-</table>
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/product-page.jpg)](https://mdbootstrap.com/freebies/jquery/e-commerce/)
 
-#### This is a Responsive HTML5 Ecommerce Template with Combining Bootstrap CSS, Javascript, Jquery And Some other useful plugins like Zoom.js, Slider.js, Mega Slider and So On. Just Check this template and Hope you can find almost every feature you need in an any template. Template at - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
+# Bootstrap 4 & Material Design - Ecommerce Template 
+
+Free, responsive Ecommerce template containing many types of product pages, shopping carts, and different homepages with product presentations. Designed for business. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
+
+________
+
+# Live Previews: 
+## https://mdbootstrap.com/freebies/jquery/e-commerce/
+
+# Most important features:
+
+1. Fully responsive
+
+2. Plenty of useful components
+
+3. Easy installation
+
+4. Easy to use and customize
+
+5. Active community
+
+6. Dedicated support forum
+
+7. Detailed documentation
+
+# Demo:  
+**Main demo**: https://mdbootstrap.com/previews/free-templates/ecommerce/home-page.html
+
+# MDB Quick Start (5 minutes):
+**Written Tutorial**: https://mdbootstrap.com/education/bootstrap/quick-start/
+
+**Video Tutorial**:https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s
+
+**npm installation**
+You can install MDBootstrap using NPM:
+- `npm install mdbootstrap`
+
+# Additional tutorials:
+
+**MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
+
+**MDB - Wordpress tutorial**: https://mdbootstrap.com/education/wordpress/
+
+# Documentation:
+
+**Huge, detailed documentation avilable online on**: https://mdbootstrap.com/
+
+# PRO version:
+
+**MDB Ecommerce Template Pro (jQuery version)**: https://mdbootstrap.com/products/jquery-e-commerce/
+
+# Highlights:  
+**Bootstrap 4**  
+Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.
+
+**Material Design for Bootstrap**  
+This template is built with MDBootstrap - powerful and free UI Kit, containing 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more.  
+
+**Free for personal and commercial use**  
+Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.   
+
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
+
+**Fully responsive**  
+It doesn't matter whether your project will be displayed on desktop, laptop, tablet or mobile phone. MDB looks great on each screen.
+
+**Technical support**  
+We really care about reliability. If you have any questions - do not hesitate to contact us.  
+
+**Active community**  
+Our society grows day by day. Visit **our forum** and check how it is to be a part of our family.  
+
+**Flex box**  
+MDB fully suppports Flex Box. You can forget about alignment issues.  
+
+**Latest jQuery**  
+MDB is integrated with newest jQuery, therefore you can use all the newest features which comes along with it.  
+
+**Detailed documentation:**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
+
+A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.  
+
+# Useful Links:  
+
+Getting started: https://mdbootstrap.com/docs/jquery/getting-started/download/  
+
+5 min quick start: https://mdbootstrap.com/education/bootstrap/quick-start/  
+
+Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/  
+
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress/  
+
+Other Freebies: https://mdbootstrap.com/freebies/  
+
+Premium Templates: https://mdbootstrap.com/templates/  
 
 
-## Template is live in this Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
+# Social Media:  
 
-<br />
+Twitter: https://twitter.com/MDBootstrap  
 
-## Features
+Facebook: https://www.facebook.com/mdbootstrap  
 
-### Mega Navigation Bar
-<img src="https://image.ibb.co/i647oG/mega_navigation_bar.jpg" alt="mega_navigation_bar" border="1">
+Pinterest: https://pl.pinterest.com/mdbootstrap 
 
-<br /><br />
-### Responsive Slide show of Products
-<img src="https://image.ibb.co/eF27Nb/Responsive_Slideshow.jpg" alt="Responsive_Slideshow" border="1">
+Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts  
 
+Dribbble: https://dribbble.com/mdbootstrap
 
-<br /><br />
-### Product List With Left Sidebar 
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/products.html
-<img src="https://image.ibb.co/jjBj2b/Products_List_With_Left_Search_Bar.jpg" alt="Products_List_With_Left_Search_Bar" border="1">
+LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
 
-
-<br /><br />
-### Personal Account Page
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/account.html
-<img src="https://image.ibb.co/dfvivw/Personal_Account_Page.jpg" alt="Personal_Account_Page" border="1">
-
-
-<br /><br />
-### User Login And User Registration Page With Javascript Validation - 
-#### User Login Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/login.html
-#### User registration Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/register.html
-<img src="https://image.ibb.co/eKJBFw/User_Login_Page_With_Validation.jpg" alt="User_Login_Page_With_Validation" border="0">
-<img src="https://image.ibb.co/mjL2Nb/User_Registration_Page_With_Validation.jpg" alt="User_Registration_Page_With_Validation" border="1">
-
-<br /><br />
-### Cart Page With Dynamic Javascript Functionality - 
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/cart.html
-<img src="https://image.ibb.co/iaAaaw/Cart_Page_For_With_Javascript_Functionality.jpg" alt="Cart_Page_For_With_Javascript_Functionality" border="1">
-
-
-
-<br /><br />
-### Product Checkout Page Using Jquery/Javscript
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/checkout.html
-<img src="https://image.ibb.co/jot08G/Checkout_Page_Dynamic_With_Javascript.jpg" alt="Checkout_Page_Dynamic_With_Javascript" border="1">
-
-
-
-
-<br /><br />
-### Single Product Page With Zoom Effect
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/product_single.html
-<img src="https://image.ibb.co/bXVu2b/Single_Product_Page_With_Zooming_Effect.jpg" alt="Single_Product_Page_With_Zooming_Effect" border="1">
-
-
-
-<br /><br />
-### Frequesntly Asked Question Page
-#### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/faq.html
-<img src="https://image.ibb.co/hG4kaw/Frequesntly_Asked_Question.jpg" alt="Frequesntly_Asked_Question" border="1">
- <br /><br />
- 
- ## Mobile Friendly Tempalte
- <img src="https://image.ibb.co/kceyTG/Mobile_Friendly_Template.jpg" alt="Mobile_Friendly_Template" border="0">
- 
-  <br />  <br />  <br />
-# See The Ecommerce Template Live Here - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
+# Visit our website: https://mdbootstrap.com/
